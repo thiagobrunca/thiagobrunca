@@ -1,7 +1,7 @@
 # 👦💻 Thiago Brunca
 
 
-Me chamo Thiago Brunca, tenho 15 anos e sou natural do estado de São Paulo. Estou cursando atualmente o ensino médio na **ETEC**, com o curso técnico em **Desenvolvimento de Sistemas**. Pretendo cursar Ciência da Computação na faculdade
+Me chamo Thiago Brunca, tenho 15 anos e sou natural do estado de São Paulo. Estou cursando atualmente o ensino médio na **ETEC**, com o curso técnico em **Desenvolvimento de Sistemas**.
 
 
   
